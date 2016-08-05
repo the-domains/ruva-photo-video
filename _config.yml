@@ -1,4 +1,3 @@
-layout_spectrum: 0.389155455166474
 typography_spectrum: 0.43642115546390414
 color:
   brandStrength: 0.6988286434207112
@@ -11,4 +10,11 @@ color:
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
+layout_spectrum: 0.389155455166474
+author:
+  name: Carlos Ruiz
+  email: ruvaphotovideo@icloud.com
+  url: www.ruvaphotovideo.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c2da765-59fb-4d05-a7ed-3ecc2cdd84be.jpg
 name: RuVa Photo & Video

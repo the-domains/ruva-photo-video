@@ -18,9 +18,6 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5198c07a-885a-4048-9182-dddfce4363db.jpg
 name: RuVa Photo & Video
-navigation:
-  - name: Art Gallery
-    id: 6dff909f-1d6d-4bde-b63b-0a11a0969c32
-    type: content
+navigation: []
 title: RuVa Photo & Video
 description: Photography and Video Solutions

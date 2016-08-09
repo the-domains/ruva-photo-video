@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-09T23:57:53.003Z'
+datePublished: '2016-08-09T23:58:57.120Z'
 sourcePath: _posts/2016-08-09-art-catalog.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-09T23:57:52.538Z'
+dateModified: '2016-08-09T23:58:56.793Z'
 title: Art Catalog
 publisher: {}
 description: Art Catalog title when full post is clicked
@@ -19,3 +19,5 @@ Art Catalog title when full post is clicked
 # Art Catalog
 
 Here you can see our art catalog. If you like something you can purchase
+
+adding content below line

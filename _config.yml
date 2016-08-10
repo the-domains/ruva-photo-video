@@ -1,4 +1,4 @@
-typography_spectrum: 0.43642115546390414
+typography_spectrum: 0.3303824281319976
 color:
   brandStrength: 0.6988286434207112
   lightness: 0.8811156821902841
@@ -10,7 +10,7 @@ color:
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
-layout_spectrum: 0.389155455166474
+layout_spectrum: 0.11081192851997912
 author:
   name: Carlos Ruiz
   email: ruvaphotovideo@icloud.com
